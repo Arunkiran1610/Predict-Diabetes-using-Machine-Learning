@@ -1,14 +1,8 @@
-Diabetes Prediction System - Machine Learning Project
-
+**Diabetes Prediction System - Machine Learning Project**
 
 Diabetes Predictor is a machine learning-based web application that predicts the likelihood of a person having diabetes based on various medical parameters. It aims to assist healthcare professionals and individuals by providing an easy-to-use and fast diagnosis support tool.
 
-
-
-
-Features
-
-
+**Features****
 
 Accurate Predictions: Utilizes machine learning models trained on real-world medical datasets.
 User-Friendly Interface: Simple input forms for entering health-related metrics like glucose level, BMI, age, blood pressure, etc.
